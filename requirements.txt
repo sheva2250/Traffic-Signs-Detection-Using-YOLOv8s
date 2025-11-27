@@ -1,0 +1,9 @@
+pandas
+Pillow
+opencv-python
+ultralytics
+numpy
+matplotlib
+seaborn
+tqdm
+ipython
